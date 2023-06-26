@@ -15,3 +15,8 @@
 [官网](https://react.dev/)
 [中文站](https://zh-hans.react.dev/)
 > 用于构建 Web 和原生交互界面的库
+
+### Next.js
+[官网](https://nextjs.org/)
+[中文站(繁体)](https://nextjs.tw/)
+> 通过扩展最新的 React 功能并集成强大的基于 Rust 的 JavaScript 工具来创建全栈 Web 应用程序，以实现最快的构建
